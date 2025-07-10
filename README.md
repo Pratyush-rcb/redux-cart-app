@@ -28,3 +28,8 @@ git clone https://github.com/Pratyush-rcb/redux-cart-app.git
 cd redux-cart-app
 npm install
 npm start
+```  ← This line is MISSING in yours
+
+## 🌐 Live Demo
+
+[Click here to view the live site](https://redux-cart-app-vert.vercel.app)
